@@ -28,4 +28,4 @@ Proyek ini sebagai sebagai **media edukasi probabilitas serta pencegahan judi on
 ## 🛠️ Teknologi
 - python=3.10.16
 - streamlit==1.53.0
-- matplotlib=3.10.8
+- matplotlib==3.10.8
